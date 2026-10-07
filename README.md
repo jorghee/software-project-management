@@ -7,6 +7,8 @@
 > * Rafael Diego Nina Calizaya  
 > * Jorge Luis Mamani Arias  
 > * Jhon Alexander Quispe Apaza  
+> 
+> 🚀 **Tablero del Proyecto (GitHub Projects):** [Inti - Asistente Jurídico (Kanban & Backlog)](https://github.com/users/JhonAQ/projects/6)
 
 ---
 
